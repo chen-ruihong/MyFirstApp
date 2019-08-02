@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My First App</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="button_big">放大</string>
+    <string name="button_small">缩小</string>
+    <string name="button">修改</string>
+    <string name="edit">message</string>
+    <string name="edit_name">请输入您的姓名</string>
+    <string name="button_xianshi">显示输入信息</string>
+</resources>
